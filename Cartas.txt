@@ -13,25 +13,29 @@ Core Deck Case =
 50-Danger World = 
 55-Dragon World = Mundo
 60-Dragonic Force = ?
-65-Drum Bunker Dragon = 13° Filho de Fang_Slade_Terrestrial
+65-DrumBunkerDragon = 13° Filho de FangSladeTerrestrial
 70-Estilo Mikado Aikijujutsu
-Fang Slade Terrestrial 
-75-Gao-kun = ?
+FangSladeTerrestrial = Pai de DrumBunkerDragon
+75-Gao_kun = Comida preferida "Takoyaki" foito pela avó
 80-Gargantua Punisher = ?
 85-Hanako = Irmão de Gao_kun
 90-JackKnife Dragon = buddy do Ryuenji_Tasuku
-95-Kuguru = Menina
+95-Kuguru (Menina) = Amiga do Gao_kun
 100-Latale Shield Dragon 
 Luminize = 
 105-Magic World = 
 110-Matiam UFO = Buddy da Nanan Paruko
 115-Mikado Gao / Gao_kun = 
+-Neginoyama Hitoba = Diretor da escola de Gao_kun
+116-Nitsuke = Professor de Gao_kun 
 120-Noboru = 
 125-Núcleo Jet = 
-130-Ryuenji Tasuku ( Tasuku-kun )= Policial Boddy
+130-RyuenjiTasuku ( Tasuku-kun )= Policial Boddy
 135-Shihan = Mãe do Gao_kun
+-SoulGuard = Habilidade de buddy muito rara
 140-Systemic Dagger Dragon = 
 145-Takosuke = 
+-Tasuku = Policial e aluno do fundamental
 150-Thousand Rapider Dragon = 
 
 Outras :
